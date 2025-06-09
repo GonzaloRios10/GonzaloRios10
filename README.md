@@ -59,7 +59,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Estadísticas
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GonzaloRios10&layout=compact&theme=radical" alt="Top Languages" />
