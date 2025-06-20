@@ -10,7 +10,7 @@
 
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px" style="margin-bottom: 20px;" />
 
-- 💡 Me encanta resolver problemas y los desafíos.
+- 💡 Disfruto encontrar soluciones a los problemas y me motiva afrontar nuevos desafíos.
 - 💻 Tengo experiencia tanto en desarrollo `Front End` como `Back End`.
 - 🔍 Me gusta aprender tecnologías nuevas y estar actualizado.
 - 🤝 Podes encontrarme en [LinkedIn](https://www.linkedin.com/in/gonzalo-agustín-rios)
