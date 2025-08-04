@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy Gonzalo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  Técnico Analista de Sistemas de Computación 🎓 | Fullstack Developer 💻 | Apasionado por la tecnología y el aprendizaje continuo 🚀
+  Técnico Analista de Sistemas de Computación 🎓 | Desarrollador Fullstack 💻 | Apasionado por la tecnología y el aprendizaje continuo 🚀
 </p>
 
 ---
@@ -10,9 +10,9 @@
 
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px" style="margin-bottom: 20px;" />
 
-- 💡 Disfruto encontrar soluciones a los problemas.
+- 💡 Disfruto investigar y encontrar soluciones a los problemas.
 - 💻 Tengo experiencia tanto en desarrollo `Front End` como `Back End`.
-- 🔍 Me gusta aprender tecnologías nuevas y estar actualizado.
+- 🔍 Me apasiona aprender y mantenerme actualizado.
 - 🤝 Podes encontrarme en [LinkedIn](https://www.linkedin.com/in/gonzalo-agustín-rios)
 
 <br>
