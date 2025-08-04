@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy Gonzalo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  Técnico Analista de Sistemas de Computación 🎓 | Desarrollador Fullstack 💻 | Apasionado por la tecnología y el aprendizaje continuo 🚀
+  Téc. Analista de Sistemas de Computación 🎓 | Desarrollador FullStack 💻 | Apasionado por la tecnología y el aprendizaje continuo 🚀
 </p>
 
 ---
